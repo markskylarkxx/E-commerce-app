@@ -5,7 +5,8 @@ It provides a robust and user-friendly shopping experience for both customers.
 Some of the core features of this application are that it enables users to browse and search for products of various categories. Also has a shopping cart, that adds and removes items from the
 cart.
 
-Technologies Used
+Technologies Used![Screenshot 2023-09-09 170253](https://github.com/markskylarkxx/e-commerce-app/assets/116182042/2a7cb7d4-b494-46da-bbd2-cd5fbe56d0d8)
+
 Backend:
 
 1)Java
